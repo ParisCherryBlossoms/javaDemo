@@ -3,10 +3,43 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-
     <groupId>io.zicp.starry_sky</groupId>
     <artifactId>javaDemo</artifactId>
+    <packaging>pom</packaging>
     <version>PRACTICE</version>
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
+    <modules>
+        <module>01_03_01</module>
+        <module>01_03_02</module>
+        <module>01_03_03</module>
+        <module>01_03_04</module>
+        <module>01_04_01</module>
+        <module>01_04_02</module>
+        <module>01_04_03</module>
+        <module>01_04_04</module>
+        <module>01_05_01</module>
+        <module>01_05_02</module>
+        <module>01_05_03</module>
+        <module>01_06_01</module>
+        <module>01_06_02</module>
+        <module>01_06_03</module>
+        <module>01_06_04</module>
+        <module>01_06_05</module>
+    </modules>
 
-
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01_06_03" />
+        <module name="01_06_02" />
+        <module name="01_06_01" />
+        <module name="01_05_03" />
+        <module name="01_05_02" />
+        <module name="01_05_01" />
+        <module name="01_04_04" />
+        <module name="01_04_03" />
+        <module name="01_04_02" />
+        <module name="01_04_01" />
+        <module name="01_03_04" />
+        <module name="01_03_03" />
+        <module name="01_03_02" />
+        <module name="01_03_01" />
+        <module name="01_06_05" />
+        <module name="01_06_04" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+</project>
