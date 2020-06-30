@@ -3,7 +3,6 @@ public class ArgumentPassingTest {
         int a = 1, b = 2;
         swap(a, b);
         System.out.println("a is " + a + ", b is " + b);  //a=1, b=2
-
         MyNumber obj1 = new MyNumber();
         MyNumber obj2 = new MyNumber();
         obj2.num = 10;

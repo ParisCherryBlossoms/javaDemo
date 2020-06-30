@@ -27,8 +27,28 @@
         <module>01_06_03</module>
         <module>01_06_04</module>
         <module>01_06_05</module>
+        <module>01_07_01</module>
+        <module>01_07_02</module>
+        <module>01_07_03</module>
+        <module>01_07_04</module>
+        <module>01_08_02</module>
+        <module>01_08_03</module>
+        <module>01_08_04</module>
+        <module>01_08_05</module>
+        <module>01_09_01</module>
+        <module>01_09_02</module>
+        <module>01_09_03</module>
+        <module>01_10_01</module>
+        <module>01_10_03</module>
+        <module>01_10_04</module>
+        <module>01_10_05</module>
+        <module>01_10_06</module>
+        <module>01_11_01</module>
+        <module>01_11_03</module>
+        <module>01_11_04</module>
+        <module>01_11_05</module>
+        <module>01_12_01</module>
     </modules>
-
     <build>
         <plugins>
             <plugin>
