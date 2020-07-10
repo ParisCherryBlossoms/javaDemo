@@ -1,0 +1,8 @@
+<document>
+    <element alignment="left" type="paragraph">
+        <object type="text">
+            <text>abcdefg</text>
+            <bold>true</bold>
+        </object>
+    </element>
+</document>
