@@ -22,7 +22,7 @@ public class ChinesePDF {
         Font font = new Font(bfChinese);
         // 使用基础字体对象创建新字体对像，粗体12号红色字
         Document document = new Document(PageSize.A4); // 创建document对象
-        PdfWriter.getInstance(document, new FileOutputStream("chinesePDF.pdf"));// 创建书写器
+        PdfWriter.getInstance(document, new FileOutputStream("02_04_08/chinesePDF.pdf"));// 创建书写器
         document.open(); // 打开文档
         String context = "华东师范大学60年校庆！"; // 文档内容
         Paragraph paragraph = new Paragraph(context, font); // 创建段落，并设置字体

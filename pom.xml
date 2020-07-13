@@ -63,6 +63,15 @@
         <module>02_04_06</module>
         <module>02_04_07</module>
         <module>02_04_08</module>
+        <module>02_05_01</module>
+        <module>02_05_02</module>
+        <module>02_05_03</module>
+        <module>02_05_04</module>
+        <module>02_05_05</module>
+        <module>02_05_06</module>
+        <module>02_05_07</module>
+        <module>02_05_08</module>
+        <module>02_05_09</module>
     </modules>
     <build>
         <plugins>
